@@ -20,4 +20,4 @@ usps to mnist: 88%(source) ~ 91%(target)
 mnist to usps: 95%(source) ~ 92%(target)  
 
 ## how to run?
-Dwonload it and put it into a pycharm project. Run main.py
+Dwonload it and put it into a pycharm project. Create folder "models_trained" and "dataset". Run main.py
