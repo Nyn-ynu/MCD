@@ -16,9 +16,6 @@ The autor's github is [here](https://github.com/mil-tokyo/MCD_DA).It's fully fun
 
 ## results
 
-usps to mnist: 88%(source) ~ 91%(target) 
-mnist to usps: 95%(source) ~ 92%(target)  
-
 
 ## how to run?
 Dwonload it and put it into a pycharm project. Run main.py
